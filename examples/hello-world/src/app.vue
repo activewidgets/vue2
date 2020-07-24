@@ -4,7 +4,7 @@
 </template>
 <script>
 
-import {components} from '@activewidgets/vue';
+import {components} from '@activewidgets/vue2';
 import './styles.css';
 
 

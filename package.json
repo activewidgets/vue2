@@ -1,7 +1,7 @@
 {
-  "name": "@activewidgets/vue",
+  "name": "@activewidgets/vue2",
   "version": "3.0.5",
-  "description": "Datagrid component for vue.js",
+  "description": "Datagrid component for vue.js (v2)",
   "author": "ActiveWidgets SARL",
   "license": "MIT",
   "main": "./dist/umd/package.js",
@@ -53,7 +53,7 @@
     "vue-template-compiler": "^2"
   },
   "alias": {
-    "@activewidgets/vue": "./"
+    "@activewidgets/vue2": "./"
   },
   "jest": {
     "projects": [
@@ -73,7 +73,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/activewidgets/vue.git"
+    "url": "git+https://github.com/activewidgets/vue2.git"
   },
   "keywords": [
     "vue",
@@ -89,7 +89,7 @@
     "activewidgets"
   ],
   "bugs": {
-    "url": "https://github.com/activewidgets/vue/issues"
+    "url": "https://github.com/activewidgets/vue2/issues"
   },
   "homepage": "https://activewidgets.com/vue/data-grid/"
 }

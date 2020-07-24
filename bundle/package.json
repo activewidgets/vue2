@@ -1,5 +1,5 @@
 {
-  "name": "@activewidgets/vue/bundle",
+  "name": "@activewidgets/vue2/bundle",
   "main": "../dist/umd/bundle.js",
   "module": "../dist/esm/bundle.js",
   "private": true

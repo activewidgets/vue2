@@ -40,7 +40,7 @@
 </template>
 <script>
 
-import {components} from '@activewidgets/vue';
+import {components} from '@activewidgets/vue2';
 import { northwind } from '@activewidgets/examples/data';
 import * as flags from '@activewidgets/examples/flags';
 import options from './options';

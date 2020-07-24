@@ -4,7 +4,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-import adapter from '@activewidgets/frameworks/vue';
+import adapter from '@activewidgets/frameworks/vue2';
 import Vue from 'vue';
 
 export const {build, components} = adapter(Vue);

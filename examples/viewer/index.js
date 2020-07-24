@@ -5,7 +5,7 @@
  */
 
 import {Viewer} from '@activewidgets/examples';
-import {components} from '@activewidgets/vue';
+import {components} from '@activewidgets/vue2';
 import Vue from "vue";
 import * as pages from './examples.js';
 import readme from '../demo/README.md';
