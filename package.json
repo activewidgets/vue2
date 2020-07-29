@@ -1,6 +1,6 @@
 {
   "name": "@activewidgets/vue2",
-  "version": "3.0.6",
+  "version": "3.0.7",
   "description": "Datagrid component for vue.js (v2)",
   "author": "ActiveWidgets SARL",
   "license": "MIT",
@@ -20,21 +20,21 @@
     "test": "npm run output && jest"
   },
   "dependencies": {
-    "@activewidgets/datagrid": "3.0.6",
-    "@activewidgets/frameworks": "3.0.6"
+    "@activewidgets/datagrid": "3.0.7",
+    "@activewidgets/frameworks": "3.0.7"
   },
   "peerDependencies": {
     "vue": "^2"
   },
   "devDependencies": {
     "@activewidgets/examples": "0.0.10",
-    "@activewidgets/options": "3.0.6",
+    "@activewidgets/options": "3.0.7",
     "@activewidgets/puppeteer": "0.0.4",
     "@activewidgets/testing": "0.0.3",
     "@babel/core": "^7",
     "@babel/preset-env": "^7",
     "@rollup/plugin-node-resolve": "^6",
-    "@testing-library/vue": "^4",
+    "@testing-library/vue": "^5",
     "@vue/component-compiler-utils": "^3",
     "express": "^4",
     "marked": "^0.8",
